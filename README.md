@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Nikolas Kyrillou
+
+🎓 I'm a high school student passionate about coding and programming.
+
+🌱 I'm currently learning **JavaScript** because I want to learn how to create **mobile apps**, **websites**, **desktop applications**, and more — and JavaScript gives me that opportunity.
 
 <!--
 **nikolaskyrillou/NikolasKyrillou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
