@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nikolas Kyrillou
 
-🎓 I'm a high school student passionate about coding and programming.
+🎓 I'm a  passionate about coding and programming.
 
 🌱 I'm currently learning **JavaScript** because I want to learn how to create **mobile apps**, **websites**, **desktop applications**, and more — and JavaScript gives me that opportunity.
 
